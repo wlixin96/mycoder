@@ -1,2 +1,0 @@
-# mycoder
-wanglixin's code
